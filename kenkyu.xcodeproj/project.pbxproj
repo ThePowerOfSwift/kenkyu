@@ -7,29 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CA071519238B8086004FD59F /* PDFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071518238B8085004FD59F /* PDFViewController.swift */; };
-		CA071528238B809B004FD59F /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA07151A238B8098004FD59F /* ViewController3.swift */; };
-		CA071529238B809B004FD59F /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA07151B238B8098004FD59F /* WebViewController.swift */; };
-		CA07152A238B809B004FD59F /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA07151C238B8099004FD59F /* ViewController6.swift */; };
-		CA07152B238B809B004FD59F /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA07151D238B8099004FD59F /* DrawingView.swift */; };
-		CA07152C238B809B004FD59F /* quizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA07151E238B8099004FD59F /* quizViewController.swift */; };
-		CA07152D238B809B004FD59F /* ViewController22.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA07151F238B8099004FD59F /* ViewController22.swift */; };
-		CA07152E238B809B004FD59F /* WkwebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071520238B8099004FD59F /* WkwebViewController.swift */; };
-		CA07152F238B809B004FD59F /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071521238B8099004FD59F /* Question.swift */; };
-		CA071530238B809B004FD59F /* Heap1.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071522238B809A004FD59F /* Heap1.swift */; };
-		CA071531238B809B004FD59F /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071523238B809A004FD59F /* QuestionBank.swift */; };
-		CA071532238B809B004FD59F /* WebLTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071524238B809A004FD59F /* WebLTableViewController.swift */; };
-		CA071533238B809B004FD59F /* ToolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071525238B809A004FD59F /* ToolView.swift */; };
-		CA071534238B809B004FD59F /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071526238B809A004FD59F /* ViewController4.swift */; };
-		CA071535238B809B004FD59F /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071527238B809B004FD59F /* ViewController5.swift */; };
-		CA071537238B80D7004FD59F /* s.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CA071536238B80D7004FD59F /* s.pdf */; };
-		CA071539238B822E004FD59F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA071538238B822D004FD59F /* ViewController.swift */; };
 		CA07153C238B825C004FD59F /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA07153B238B825C004FD59F /* WebKit.framework */; };
 		CA07153E238B8260004FD59F /* PDFKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA07153D238B8260004FD59F /* PDFKit.framework */; };
-		CA071540238B8490004FD59F /* ToolView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CA07153F238B8490004FD59F /* ToolView.xib */; };
 		CA071580238C11DD004FD59F /* chViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA07157F238C11DD004FD59F /* chViewController.swift */; };
 		CA21A58B2395987E00670437 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA21A58A2395987D00670437 /* MediaPlayer.framework */; };
-		CA21A5912395A61400670437 /* trailer_720p.mov in Resources */ = {isa = PBXBuildFile; fileRef = CA21A5902395A61300670437 /* trailer_720p.mov */; };
+		CA21BAB42397E31D00136759 /* CanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA21BAB32397E31D00136759 /* CanvasView.swift */; };
+		CA21BABD2397E44F00136759 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA21BABC2397E44F00136759 /* DrawingView.swift */; };
+		CA21BAC92397E62400136759 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA21BAC42397E51500136759 /* ViewController.swift */; };
 		CA22A1A62396D7EB00B8507D /* SourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA22A1A52396D7EB00B8507D /* SourceViewController.swift */; };
 		CA22A1A82397C91100B8507D /* Start.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA22A1A72397C91000B8507D /* Start.storyboard */; };
 		CA238F0F2395BFA700CADD52 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA238F0E2395BFA700CADD52 /* Storyboard.storyboard */; };
@@ -38,7 +22,6 @@
 		CA73A171238B7C7F00DF1FA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA73A16F238B7C7F00DF1FA7 /* LaunchScreen.storyboard */; };
 		CA73A17C238B7C7F00DF1FA7 /* kenkyuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA73A17B238B7C7F00DF1FA7 /* kenkyuTests.swift */; };
 		CA73A187238B7C7F00DF1FA7 /* kenkyuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA73A186238B7C7F00DF1FA7 /* kenkyuUITests.swift */; };
-		CA758322238C2D6700E44F09 /* CanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA758321238C2D6700E44F09 /* CanvasView.swift */; };
 		CA9276432395B28E00085E17 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = CA9276422395B28E00085E17 /* Base.lproj */; };
 		CAB8E86D238D0D87008021E8 /* minViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB8E86C238D0D87008021E8 /* minViewController.swift */; };
 		CAD14257238D3D53007E211E /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CAD14256238D3D52007E211E /* AVFoundation.framework */; };
@@ -65,29 +48,31 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CA071518238B8085004FD59F /* PDFViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDFViewController.swift; path = ../../heap2/heap2/PDFViewController.swift; sourceTree = "<group>"; };
-		CA07151A238B8098004FD59F /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController3.swift; path = ../../heap2/heap2/ViewController3.swift; sourceTree = "<group>"; };
-		CA07151B238B8098004FD59F /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WebViewController.swift; path = ../../heap2/heap2/WebViewController.swift; sourceTree = "<group>"; };
-		CA07151C238B8099004FD59F /* ViewController6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController6.swift; path = ../../heap2/heap2/ViewController6.swift; sourceTree = "<group>"; };
-		CA07151D238B8099004FD59F /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DrawingView.swift; path = ../../heap2/heap2/DrawingView.swift; sourceTree = "<group>"; };
-		CA07151E238B8099004FD59F /* quizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = quizViewController.swift; path = ../../heap2/heap2/quizViewController.swift; sourceTree = "<group>"; };
-		CA07151F238B8099004FD59F /* ViewController22.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController22.swift; path = ../../heap2/heap2/ViewController22.swift; sourceTree = "<group>"; };
-		CA071520238B8099004FD59F /* WkwebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WkwebViewController.swift; path = ../../heap2/heap2/WkwebViewController.swift; sourceTree = "<group>"; };
-		CA071521238B8099004FD59F /* Question.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Question.swift; path = ../../heap2/heap2/Question.swift; sourceTree = "<group>"; };
-		CA071522238B809A004FD59F /* Heap1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Heap1.swift; path = ../../heap2/heap2/Heap1.swift; sourceTree = "<group>"; };
-		CA071523238B809A004FD59F /* QuestionBank.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionBank.swift; path = ../../heap2/heap2/QuestionBank.swift; sourceTree = "<group>"; };
-		CA071524238B809A004FD59F /* WebLTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WebLTableViewController.swift; path = ../../heap2/heap2/WebLTableViewController.swift; sourceTree = "<group>"; };
-		CA071525238B809A004FD59F /* ToolView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ToolView.swift; path = ../../heap2/heap2/ToolView.swift; sourceTree = "<group>"; };
-		CA071526238B809A004FD59F /* ViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController4.swift; path = ../../heap2/heap2/ViewController4.swift; sourceTree = "<group>"; };
-		CA071527238B809B004FD59F /* ViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController5.swift; path = ../../heap2/heap2/ViewController5.swift; sourceTree = "<group>"; };
-		CA071536238B80D7004FD59F /* s.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = s.pdf; path = "../../../Documents/heapsort 12-21-05-043/s.pdf"; sourceTree = "<group>"; };
-		CA071538238B822D004FD59F /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = ../../heapsort/ViewController.swift; sourceTree = "<group>"; };
 		CA07153B238B825C004FD59F /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		CA07153D238B8260004FD59F /* PDFKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PDFKit.framework; path = System/Library/Frameworks/PDFKit.framework; sourceTree = SDKROOT; };
-		CA07153F238B8490004FD59F /* ToolView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ToolView.xib; path = ../../ToolView.xib; sourceTree = "<group>"; };
 		CA07157F238C11DD004FD59F /* chViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chViewController.swift; sourceTree = "<group>"; };
 		CA21A58A2395987D00670437 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
-		CA21A5902395A61300670437 /* trailer_720p.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = trailer_720p.mov; path = ../../../Downloads/trailer_720p.mov; sourceTree = "<group>"; };
+		CA21BAB02397E23300136759 /* heap.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = heap.mp4; sourceTree = "<group>"; };
+		CA21BAB32397E31D00136759 /* CanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CanvasView.swift; path = "../../../../Downloads/SimpleDrawingApp-master/Canvas/CanvasView.swift"; sourceTree = "<group>"; };
+		CA21BAB82397E38100136759 /* PDFViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFViewController.swift; sourceTree = "<group>"; };
+		CA21BAB92397E38C00136759 /* ToolView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ToolView.xib; sourceTree = "<group>"; };
+		CA21BABB2397E41800136759 /* trailer_720p.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = trailer_720p.mov; sourceTree = "<group>"; };
+		CA21BABC2397E44F00136759 /* DrawingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		CA21BABE2397E47400136759 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Question.swift; path = ../../heap2/heap2/Question.swift; sourceTree = "<group>"; };
+		CA21BABF2397E47D00136759 /* QuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = QuestionBank.swift; path = ../../heap2/heap2/QuestionBank.swift; sourceTree = "<group>"; };
+		CA21BAC02397E47F00136759 /* quizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = quizViewController.swift; path = ../../heap2/heap2/quizViewController.swift; sourceTree = "<group>"; };
+		CA21BAC12397E4AC00136759 /* ToolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolView.swift; sourceTree = "<group>"; };
+		CA21BAC22397E4DC00136759 /* s.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = s.pdf; sourceTree = "<group>"; };
+		CA21BAC42397E51500136759 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CA21BAC62397E55C00136759 /* WebLTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebLTableViewController.swift; sourceTree = "<group>"; };
+		CA21BAC72397E56E00136759 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		CA21BACB2397E68500136759 /* WkwebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WkwebViewController.swift; sourceTree = "<group>"; };
+		CA21BACC2397E68800136759 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		CA21BACE2397E70800136759 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		CA21BAD02397E72A00136759 /* Heap1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap1.swift; sourceTree = "<group>"; };
+		CA21BAD12397E73400136759 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		CA21BAD22397E73800136759 /* ViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		CA21BAD32397E73B00136759 /* ViewController22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController22.swift; sourceTree = "<group>"; };
 		CA22A1A52396D7EB00B8507D /* SourceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceViewController.swift; sourceTree = "<group>"; };
 		CA22A1A72397C91000B8507D /* Start.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Start.storyboard; sourceTree = "<group>"; };
 		CA238F0E2395BFA700CADD52 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
@@ -102,12 +87,10 @@
 		CA73A182238B7C7F00DF1FA7 /* kenkyuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kenkyuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA73A186238B7C7F00DF1FA7 /* kenkyuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kenkyuUITests.swift; sourceTree = "<group>"; };
 		CA73A188238B7C7F00DF1FA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CA758321238C2D6700E44F09 /* CanvasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CanvasView.swift; path = "../../../Downloads/SimpleDrawingApp-master/Canvas/CanvasView.swift"; sourceTree = "<group>"; };
 		CA9276422395B28E00085E17 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
 		CAB8E86C238D0D87008021E8 /* minViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minViewController.swift; sourceTree = "<group>"; };
 		CAD14256238D3D52007E211E /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		CAD14258238D3D5B007E211E /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
-		CAD1425A238D73F0007E211E /* heap.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = heap.mp4; path = ../../../Downloads/heap.mp4; sourceTree = "<group>"; };
 		CAD1425B238D75A7007E211E /* videoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = videoViewController.swift; sourceTree = "<group>"; };
 		CAD1425F238D8086007E211E /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -156,6 +139,101 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		CA21BAAE2397E1B500136759 /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BABB2397E41800136759 /* trailer_720p.mov */,
+				CA21BAB02397E23300136759 /* heap.mp4 */,
+				CAD1425B238D75A7007E211E /* videoViewController.swift */,
+			);
+			path = Video;
+			sourceTree = "<group>";
+		};
+		CA21BAAF2397E21400136759 /* Challenge */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BABC2397E44F00136759 /* DrawingView.swift */,
+				CAB8E86C238D0D87008021E8 /* minViewController.swift */,
+				CA21BAB32397E31D00136759 /* CanvasView.swift */,
+				CA07157F238C11DD004FD59F /* chViewController.swift */,
+			);
+			path = Challenge;
+			sourceTree = "<group>";
+		};
+		CA21BAB72397E36F00136759 /* PDF */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BAC12397E4AC00136759 /* ToolView.swift */,
+				CA21BAB92397E38C00136759 /* ToolView.xib */,
+				CA21BAB82397E38100136759 /* PDFViewController.swift */,
+				CA21BAC22397E4DC00136759 /* s.pdf */,
+			);
+			path = PDF;
+			sourceTree = "<group>";
+		};
+		CA21BABA2397E3FD00136759 /* Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BABF2397E47D00136759 /* QuestionBank.swift */,
+				CA21BAC02397E47F00136759 /* quizViewController.swift */,
+				CA21BABE2397E47400136759 /* Question.swift */,
+			);
+			name = Quiz;
+			sourceTree = "<group>";
+		};
+		CA21BAC32397E50800136759 /* Introduction */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BAC42397E51500136759 /* ViewController.swift */,
+			);
+			path = Introduction;
+			sourceTree = "<group>";
+		};
+		CA21BAC52397E54900136759 /* Web */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BAC72397E56E00136759 /* ViewController3.swift */,
+				CA21BAC62397E55C00136759 /* WebLTableViewController.swift */,
+			);
+			path = Web;
+			sourceTree = "<group>";
+		};
+		CA21BACA2397E67800136759 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BACC2397E68800136759 /* WebViewController.swift */,
+				CA21BACB2397E68500136759 /* WkwebViewController.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		CA21BACD2397E6FD00136759 /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BACE2397E70800136759 /* ViewController4.swift */,
+			);
+			path = Menu;
+			sourceTree = "<group>";
+		};
+		CA21BACF2397E71100136759 /* Heap Sort App */ = {
+			isa = PBXGroup;
+			children = (
+				CA21BAD02397E72A00136759 /* Heap1.swift */,
+				CA21BAD22397E73800136759 /* ViewController6.swift */,
+				CA21BAD12397E73400136759 /* ViewController5.swift */,
+				CA21BAD32397E73B00136759 /* ViewController22.swift */,
+			);
+			path = "Heap Sort App";
+			sourceTree = "<group>";
+		};
+		CA21BAD42397E77500136759 /* Source code */ = {
+			isa = PBXGroup;
+			children = (
+				CA22A1A52396D7EB00B8507D /* SourceViewController.swift */,
+			);
+			path = "Source code";
+			sourceTree = "<group>";
+		};
 		CA73A15A238B7C7300DF1FA7 = {
 			isa = PBXGroup;
 			children = (
@@ -184,34 +262,19 @@
 			children = (
 				CA9276422395B28E00085E17 /* Base.lproj */,
 				CA73A166238B7C7300DF1FA7 /* AppDelegate.swift */,
-				CAD1425B238D75A7007E211E /* videoViewController.swift */,
-				CAB8E86C238D0D87008021E8 /* minViewController.swift */,
-				CA07157F238C11DD004FD59F /* chViewController.swift */,
-				CA07153F238B8490004FD59F /* ToolView.xib */,
-				CA071518238B8085004FD59F /* PDFViewController.swift */,
-				CA758321238C2D6700E44F09 /* CanvasView.swift */,
+				CA21BAAE2397E1B500136759 /* Video */,
+				CA21BAAF2397E21400136759 /* Challenge */,
+				CA21BAB72397E36F00136759 /* PDF */,
 				CA73A16D238B7C7E00DF1FA7 /* Assets.xcassets */,
 				CA73A16F238B7C7F00DF1FA7 /* LaunchScreen.storyboard */,
 				CA73A172238B7C7F00DF1FA7 /* Info.plist */,
-				CA21A5902395A61300670437 /* trailer_720p.mov */,
-				CA07151D238B8099004FD59F /* DrawingView.swift */,
-				CAD1425A238D73F0007E211E /* heap.mp4 */,
-				CA071536238B80D7004FD59F /* s.pdf */,
-				CA071538238B822D004FD59F /* ViewController.swift */,
-				CA071522238B809A004FD59F /* Heap1.swift */,
-				CA071521238B8099004FD59F /* Question.swift */,
-				CA071523238B809A004FD59F /* QuestionBank.swift */,
-				CA07151E238B8099004FD59F /* quizViewController.swift */,
-				CA071525238B809A004FD59F /* ToolView.swift */,
-				CA07151A238B8098004FD59F /* ViewController3.swift */,
-				CA071526238B809A004FD59F /* ViewController4.swift */,
-				CA22A1A52396D7EB00B8507D /* SourceViewController.swift */,
-				CA071527238B809B004FD59F /* ViewController5.swift */,
-				CA07151C238B8099004FD59F /* ViewController6.swift */,
-				CA07151F238B8099004FD59F /* ViewController22.swift */,
-				CA071524238B809A004FD59F /* WebLTableViewController.swift */,
-				CA07151B238B8098004FD59F /* WebViewController.swift */,
-				CA071520238B8099004FD59F /* WkwebViewController.swift */,
+				CA21BABA2397E3FD00136759 /* Quiz */,
+				CA21BAC32397E50800136759 /* Introduction */,
+				CA21BACF2397E71100136759 /* Heap Sort App */,
+				CA21BACD2397E6FD00136759 /* Menu */,
+				CA21BAD42397E77500136759 /* Source code */,
+				CA21BAC52397E54900136759 /* Web */,
+				CA21BACA2397E67800136759 /* Search */,
 			);
 			path = kenkyu;
 			sourceTree = "<group>";
@@ -338,9 +401,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA071540238B8490004FD59F /* ToolView.xib in Resources */,
-				CA21A5912395A61400670437 /* trailer_720p.mov in Resources */,
-				CA071537238B80D7004FD59F /* s.pdf in Resources */,
 				CA73A171238B7C7F00DF1FA7 /* LaunchScreen.storyboard in Resources */,
 				CA9276432395B28E00085E17 /* Base.lproj in Resources */,
 				CA22A1A82397C91100B8507D /* Start.storyboard in Resources */,
@@ -370,27 +430,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA758322238C2D6700E44F09 /* CanvasView.swift in Sources */,
+				CA21BAC92397E62400136759 /* ViewController.swift in Sources */,
 				CAD1425C238D75A7007E211E /* videoViewController.swift in Sources */,
-				CA071532238B809B004FD59F /* WebLTableViewController.swift in Sources */,
 				CA071580238C11DD004FD59F /* chViewController.swift in Sources */,
 				CA73A167238B7C7300DF1FA7 /* AppDelegate.swift in Sources */,
-				CA071519238B8086004FD59F /* PDFViewController.swift in Sources */,
-				CA071528238B809B004FD59F /* ViewController3.swift in Sources */,
-				CA071535238B809B004FD59F /* ViewController5.swift in Sources */,
-				CA071534238B809B004FD59F /* ViewController4.swift in Sources */,
-				CA071533238B809B004FD59F /* ToolView.swift in Sources */,
-				CA07152C238B809B004FD59F /* quizViewController.swift in Sources */,
-				CA07152E238B809B004FD59F /* WkwebViewController.swift in Sources */,
-				CA071539238B822E004FD59F /* ViewController.swift in Sources */,
-				CA071531238B809B004FD59F /* QuestionBank.swift in Sources */,
+				CA21BABD2397E44F00136759 /* DrawingView.swift in Sources */,
 				CAB8E86D238D0D87008021E8 /* minViewController.swift in Sources */,
-				CA071530238B809B004FD59F /* Heap1.swift in Sources */,
-				CA07152F238B809B004FD59F /* Question.swift in Sources */,
-				CA07152D238B809B004FD59F /* ViewController22.swift in Sources */,
-				CA07152B238B809B004FD59F /* DrawingView.swift in Sources */,
-				CA07152A238B809B004FD59F /* ViewController6.swift in Sources */,
-				CA071529238B809B004FD59F /* WebViewController.swift in Sources */,
+				CA21BAB42397E31D00136759 /* CanvasView.swift in Sources */,
 				CA22A1A62396D7EB00B8507D /* SourceViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
